@@ -1,0 +1,44 @@
+body {
+    background: #d2d2c1 url('/assets/fundo.png');
+    font-family: 'Barlow' , sans-serif;
+    font-size: 16px;
+}
+
+#principal {
+    width: 100%;
+}
+
+#menu {
+    background: #c1c185;
+    padding: 20px;
+}
+
+#conteudo {
+    background: #ebebd4;
+    padding: 10px;
+}
+
+a {
+    color: #1c3772;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 3px;
+}
+
+.imagens {
+    border: 8px solid rgb(245, 234, 214);
+}
+
+.contato {
+    color: #1c3772;
+}
+
+#rodape {
+    color: #232a39;
+    text-align: center;
+}
+
+h1 {
+    color: #3c5692a4;
+    font-size: 1.2em;
+}
